@@ -215,9 +215,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 💬 Connect with Me
 
 - GitHub: [@trynayash](https://github.com/trynayash)
-- Portfolio: [designwithyxsh](https://github.com/trynayash)
-- LinkedIn: [Yash Suthar](https://linkedin.com/in/yxshcodes)
-- Twitter: [@yxshcodes](https://twitter.com/yxshcodes)
+- Portfolio: [designwithyxsh](https://portfolio-yashsuthar.vercel.app/)
+- LinkedIn: [Yash Suthar](https://linkedin.com/in/yxshsuthar)
+- Twitter: [@yxshcodes](https://x.com/yxshsuthar)
 
 ---
 
