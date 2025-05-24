@@ -44,6 +44,7 @@ const Navbar = () => {
               <NavLink href="#pricing">Pricing</NavLink>
               <NavLink href="#testimonials">Testimonials</NavLink>
               <NavLink href="#faq">FAQ</NavLink>
+              <NavLink href="/contact">Contact</NavLink>
             </nav>
           </div>
 
